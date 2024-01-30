@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(33, 32, 32);
+
+}
+.menu {
+    background-color: antiquewhite;
+    height: 5rem;
+    
+}
+ 
+.card{
+   
+    background-color: rgba(245, 245, 245, 0.148);
+    color:whitesmoke
+
+}
+.btn{
+ 
+    background-color: rgba(255, 255, 255, 0.439);
+    color: black;
+    border: transparent;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.slider{
+    height: 5rem;
+    background-color: aqua;
+}
+.caja1{
+    height: 15rem;
+    background-color: blue;
+}
+.caja2{
+    height: 15rem;
+    background-color: aquamarine;
+}
+.caja3{
+    height: 15rem;
+    background-color: blue
+}
+.caja4{
+    height: 15rem;
+    background-color: aquamarine;
+}
+
+.cajita1{
+    height: 15rem;
+    background-color: violet;
+}
+.cajita2{
+    height: 15rem;
+    background-color: blueviolet;
+}
+.cajita3{
+    height: 15rem;
+    background-color: violet;
+}
+.cajita4{
+    height: 15rem;
+    background-color: blueviolet;
+}
